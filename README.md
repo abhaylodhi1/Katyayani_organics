@@ -13,8 +13,9 @@ Logout and persistent authentication
 
 🚀 Getting Started
 1. Clone the Repo
-
 git clone https://github.com/abhaylodhi1/Katyayani_organics.git
+
+2.Locate your folder
 cd your-repo-name or cd + space + TAB
 
 3. Install Dependencies
