@@ -12,19 +12,19 @@ Theme toggle (Dark/Light)
 Logout and persistent authentication
 
 🚀 Getting Started
-1. Clone the Repo
+1. Clone the Repo:-
 git clone https://github.com/abhaylodhi1/Katyayani_organics.git
 
-2.Locate your folder
+2.Locate your folder:-
 cd your-repo-name or cd + space + TAB
 
-3. Install Dependencies
+3. Install Dependencies:-
 npm install
 
-4. Run the App Locally
+4. Run the App Locally:-
 npm run dev
 
-5. Generated link
+5. Generated link:-
 ctrl + click 
 
 6. Login Credentials (DummyJSON)
