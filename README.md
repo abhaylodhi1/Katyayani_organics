@@ -29,8 +29,8 @@ ctrl + click
 
 6. Login Credentials (DummyJSON)
 Use credentials like:
-Username: jamesd
-Password: jamesdpass
+( Username: jamesd )
+( Password: jamesdpass )
 
 🛠️ Tech Stack
 React with Hooks and Context API
