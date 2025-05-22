@@ -14,8 +14,8 @@ Logout and persistent authentication
 🚀 Getting Started
 1. Clone the Repo
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abhaylodhi1/Katyayani_organics.git
+cd your-repo-name or cd + space + TAB
 
 3. Install Dependencies
 npm install
@@ -23,11 +23,13 @@ npm install
 4. Run the App Locally
 npm run dev
 
-5. Login Credentials (DummyJSON)
-Use credentials like:
-Username: kminchelle
-Password: 0lelplR
+5. Generated link
+ctrl + click 
 
+6. Login Credentials (DummyJSON)
+Use credentials like:
+Username: jamesd
+Password: jamesdpass
 
 🛠️ Tech Stack
 React with Hooks and Context API
